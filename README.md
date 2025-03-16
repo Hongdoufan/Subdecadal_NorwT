@@ -3,6 +3,7 @@ Source python for the submitted paper to the Journal of Climate and the Phd proj
 
 1.Preprocessing: All ASSIM and hindcasts data are linearly detrended. The yearly anomalies are calculated with respect to its
 climatology, which is defined as the 50-yr (1970-2019) mean of the 16-member ensemble
+
 mean in ASSIM and the 80-member ensemble mean in hindcasts.
 2.The Ensemble Empirical Mode Decomposition method is applied to extract the subdecadal variability of the area-averaged
 Norwegian Sea temperature, NAO index, SPG index, tendency of ocean heat content, turbulent heat flux, and temperature transport.
