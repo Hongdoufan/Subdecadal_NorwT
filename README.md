@@ -1,5 +1,5 @@
 # Subdecadal_NorwT
-Source python for the submitted paper to the Journal of Climate and the Phd project: chapter 2: See PhD publication (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://pure.mpg.de/rest/items/item_3617726/component/file_3619069/content)
+Source python for the submitted paper to the Journal of Climate and the Phd project: chapter 2: See PhD publication (https://pure.mpg.de/rest/items/item_3617726/component/file_3619069/content)
 
 1.Preprocessing: All ASSIM and hindcasts data are linearly detrended. The yearly anomalies are calculated with respect to its
 climatology, which is defined as the 50-yr (1970-2019) mean of the 16-member ensemble mean in ASSIM and the 80-member ensemble mean in hindcasts.
