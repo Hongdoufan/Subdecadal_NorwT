@@ -1,4 +1,6 @@
 # Subdecadal_NorwT
+ DOI: 10.5281/zenodo.15035099
+
 Source python for the submitted paper to the Journal of Climate and the Phd project: chapter 2: See PhD publication (https://pure.mpg.de/rest/items/item_3617726/component/file_3619069/content)
 
 1.Preprocessing: All ASSIM and hindcasts data are linearly detrended. The yearly anomalies are calculated with respect to its
